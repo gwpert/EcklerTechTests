@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiH1E3jkDl5B/DnlIIeaW/KhGcuUBYswY+DgkFgOROFkWwD4l+25V1dQSizzYXuO7oJmEbhdO+q+9q0LztqJTw==",
+  "success": true,
+  "projectFilePath": "C:\\work\\g\\Eckler-Tech_Test\\EncryptTransaction\\EncryptTransaction\\PayEZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpert\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\gpert\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gpert\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\gpert\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\gpert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\gpert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

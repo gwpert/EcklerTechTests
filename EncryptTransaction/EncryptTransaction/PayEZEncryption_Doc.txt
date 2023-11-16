@@ -1,0 +1,24 @@
+-Parameter string format: [parameter name]=[parameter value]&[parameter 
+name]=[parameter value]&[parameter name]=[parameter value]&…
+
+-The order of parameter cannot be changed, merchant validates by parameter name.
+
+
+#### Parameter definition. ORDER MATTERS ####
+
+-Version: The version of the Virtual Payment Client being used. The current version is 2.1
+
+-Command: Indicates the transaction type. This must be equal to pay
+
+-Amount: The amount of the transaction in the smallest currency unit expressed as an integer
+
+-ReturnURL: The URL that is displayed to the users browser when the Payment Server sends the redirect response.
+
+-BackURL: Called when clicks back on provider gateway.
+
+-Scure Hash: A secure hash which allows the Virtual Payment Client to authenticate the merchant and check the integrity of 
+		     the Transaction Request. Secure hash provides better security to merchants than Access Code.
+			 
+			 See Checksum Calculation for detail
+
+#### Checksum Calculation ####
