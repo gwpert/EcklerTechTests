@@ -18,7 +18,7 @@ namespace PayEZ.Services
             var encryptedData = _encryptionService.EncryptProviderRequest(request);
 
             return await _payEZAPIService.SendDataAsync(encryptedData);
-    }
+        }
     }
 
 }

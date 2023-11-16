@@ -5,7 +5,6 @@ using System.Text;
 
 namespace PayEZ.Services
 {
-
     public class EncryptionService : IEncryptionService
     {
         private readonly IConfiguration _configuration;
@@ -24,7 +23,6 @@ namespace PayEZ.Services
         {
             return string.Empty;
         }
-
 
     }
 }
